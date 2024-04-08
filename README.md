@@ -11,6 +11,7 @@ Welcome to the VoiceDraw GitHub repository, the home of an innovative applicatio
 - [Contributing](#contributing)
 - [License](#license)
 - [Get in Touch](#get-in-touch)
+- [Notes](#notes)
 
 ## Introduction
 
@@ -54,5 +55,12 @@ VoiceDraw is open-sourced under the MIT License. See the LICENSE file for more d
 ## Get in Touch
 
 For queries, support, or discussions on collaboration, please don't hesitate to reach out to me at [sudesokin@gmail.com](mailto:sudesokin@gmail.com).
+
+## Notes
+- The initial focus is on rapidly creating an artificial intelligence application prototype, deliberately overlooking various crucial aspects such as scalability, performance, cost, aesthetics, responsibility, and revenue model.
+- The prototype is developed quickly to showcase capabilities without immediate concern for scalability, efficiency, financial implications, design, ethical considerations, or revenue generation strategies.
+- There's an emphasis on the importance of considering cost management when transitioning from a prototype phase to developing a fully-fledged product.
+- It's recommended to host open-source AI models, such as Whisper and Stable Diffusion, on a private server to effectively manage costs and enhance performance, especially in terms of response times.
+- Suggests exploring prompt engineering on GEMINI for versatile (multi-form) usage of the AI application, encouraging further investigation into how to effectively interact with or utilize AI systems for various applications.
 
 
